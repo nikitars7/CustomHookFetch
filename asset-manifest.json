@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HWCustomHooks/static/css/main.527903cc.css",
+    "main.js": "/HWCustomHooks/static/js/main.000e989c.js",
+    "index.html": "/HWCustomHooks/index.html",
+    "main.527903cc.css.map": "/HWCustomHooks/static/css/main.527903cc.css.map",
+    "main.000e989c.js.map": "/HWCustomHooks/static/js/main.000e989c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527903cc.css",
+    "static/js/main.000e989c.js"
+  ]
+}
